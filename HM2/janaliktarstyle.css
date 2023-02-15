@@ -1,0 +1,163 @@
+.vbk {
+    background-color: #f4f4f4;
+    width: 1728px;
+    height: 80px;
+}
+
+.sp1 {
+    position: absolute;
+    padding: 26px 0px 26px 76px;
+}
+
+.sp2 {
+    position: absolute;
+    padding: 26px 80px 26px 1425px;
+    width: 223px;
+}
+
+.sp1, .sp2 {
+    font-family: times;
+    font-weight: 400;
+}
+
+.kartoshka {
+    width: 274px;
+    height: 380px;
+    background-color: #f4f4f4;
+    margin-top: 141px;
+    margin-left: 76px;
+    position: absolute;
+}
+
+.lorem {
+    font-size: 23px;
+    line-height: 27.6px;
+    font-weight: 400;
+    padding: 141px 19px 15px 25px;
+}
+
+.kartop {
+    padding: 28px 49px 272px 24px;
+    position: absolute;
+    font-size: 32px;
+    line-height: 36.8px;
+}
+
+.japw {
+    padding: 13px 18px 346px 218px;
+    position: absolute;
+}
+
+.jabissmelo {
+    margin: 141px 74px 2092px 453px;
+    position: absolute;
+    background-color: #f4f4f4;
+    width: 1200px;
+    height: 380px;
+}
+
+.jabiskak {
+    padding: 27px 910px 325px 27px;
+    position: absolute;
+    font-weight: 400;
+    font-style: 24px;
+}
+
+.kartoshka2 {
+    width: 274px;
+    height: 380px;
+    background-color: #f4f4f4;
+    margin-left: 76px;
+    position: absolute;
+    margin-top: 585px;
+}
+
+.kartoshka3 {
+    width: 274px;
+    height: 380px;
+    background-color: #f4f4f4;
+    margin-left: 76px;
+    position: absolute;
+    margin-top: 995px;
+}
+
+.line {
+    width: 1578px;
+    height: 0px;
+    position: absolute;
+    border: 1px solid #DCDCDC;
+    margin-top: 1414px;
+}
+
+.Ersko  {
+    position: absolute;
+    margin-top: 1491px;
+    margin-left:482px;
+    font-size: 60px;
+    font-weight: 400;
+    font-style: times;
+}
+
+.Ersko2 {
+    position: absolute;
+    margin-top: 1586px;
+    margin-left: 97px;
+    font-size: 40px;
+    font-style: times;
+    font-weight: 400;
+    line-height: 46px;
+}
+
+.xabarlaseuuu {
+    position: absolute;
+    margin-top: 2100px;
+    margin-left: 97px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.7px;
+}
+
+button {
+    position: absolute;
+    margin-top: 2150px;
+    margin-left: 97px;
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 75px;
+    font-size: 32px;
+    border-radius: 14px;
+    border: 1px solid white;
+}
+
+.Boris {
+    background-color: #f4f4f4;
+    width: 1728px;
+    height: 750px;
+    position: absolute;
+    margin-top: 2280px;
+}
+
+.b1 {
+    padding-left: 103px;
+    padding-top: 77px;   
+    font-family: times;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+}
+
+.b2 {
+    padding-left: 103px;
+    padding-top: 138px;
+    font-family: times;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+}
+
+.uxu {
+    position: absolute;
+    padding-top: 418px;
+    padding-left: 103px;
+}

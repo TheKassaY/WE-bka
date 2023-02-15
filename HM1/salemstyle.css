@@ -1,0 +1,113 @@
+#suuui {
+    color: rgb(41, 201, 41);
+}
+
+.jurek {
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 100%;
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    background-color: rgb(249, 48, 189);
+    text-align: center;
+    
+}
+
+.jurek p {
+    padding-top: 80px;
+    font-size: 22px;
+}
+
+.first {
+    width: 100%;
+    height: 180px;
+    background-color: rgba(0, 0, 0, 0.686);
+    text-align: center;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.second {
+    padding: 18px 15px;
+    color:white;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.third {
+    padding: 13px 19px;
+    color: white;
+}
+
+.fourth {
+    color: rgb(51, 224, 234);
+    padding: 14px 0;
+}
+
+.altinim {
+    background-color: rgba(128, 128, 128, 0.357);
+    width: 450px;
+    height: 890px;
+    margin-left: 410px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+
+}
+
+.header {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.olen {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.lorem {
+    width:80%;
+    margin-left: 130px;
+    font-size: 30px;
+    padding-top: 60px;
+}
+
+.ertekter-ketti {
+    font-size: 45px;
+}
+
+.kizik {
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.all{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.ff {
+    width: 200px;
+    background-color: rgb(33, 159, 227);
+    padding: 5px 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    border-radius: 9px;
+    margin-bottom: 20px;
+}
+
+.ss {
+    background-color: rgb(228, 94, 46);
+    width: 300px;
+    padding: 5px 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    border-radius: 9px;
+}
+
+.main {
+    margin-left: 25px;
+}
