@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+header {
+    width: 1728px;
+    height: 80px;
+    background-color: #f4f4f4;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    padding-left: 76px;
+    padding-top: 26px;
+    backdrop-filter: blur(50px);
+}
+
+.right {
+    position: absolute;
+    right: 80px;
+}
+
+.container {
+    position: relative;
+    padding-top: 130px;
+    left: 40px;
+}
+
+
+.card-wrapper {
+    display: inline-block; 
+}
+
+.card {
+    width: 274px;
+    height: 380px;
+    background-color: #f4f4f4;
+    padding: 15px 20px;
+    overflow: scroll;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.card span {
+    display: block;
+}
+
+.close {
+    text-align: end;
+    font-size: 18px;
+    font-weight: 400px;
+    margin-bottom: 5px;
+}
+
+.title {
+    font-size: 32px;
+    margin-bottom: 22px;
+}
+
+.lorem {
+    font-size: 24px;
+}
+
+.sticky {
+    width: 1200px;
+    height: 380px;
+    background-color: #f4f4f4;
+    padding: 27px;
+    font-size: 24px;
+    float: right;
+    position: sticky;
+    top: 100px;
+    right: 0;
+}
+
+.line {
+    width: 1728px;
+    height: 0px;
+    position: absolute;
+    border: 1px solid #DCDCDC;
+    margin-top: 170px;
+    /* 1244 */
+}
+
+.Ersko  {
+    position: absolute;
+    margin-top: 247px;
+    margin-left:482px;
+    font-size: 60px;
+    font-weight: 400;
+    font-style: times;
+}
+
+.Ersko2 {
+    position: absolute;
+    margin-top: 342px;
+    margin-left: 97px;
+    font-size: 40px;
+    font-style: times;
+    font-weight: 400;
+    line-height: 46px;
+}
+
+.xabarlaseuuu {
+    position: absolute;
+    margin-top: 856px;
+    margin-left: 97px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.7px;
+}
+
+button {
+    position: absolute;
+    margin-top: 906px;
+    margin-left: 97px;
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 75px;
+    font-size: 32px;
+    border-radius: 14px;
+    border: 1px solid white;
+}
+
+.Boris {
+    background-color: #f4f4f4;
+    width: 1728px;
+    height: 750px;
+    position: absolute;
+    margin-top: 1036px;
+}
+
+.b1 {
+    padding-left: 103px;
+    padding-top: 77px;   
+    font-family: times;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+}
+
+.b2 {
+    padding-left: 103px;
+    padding-top: 138px;
+    font-family: times;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+}
+
+.uxu {
+    position: absolute;
+    padding-top: 418px;
+    padding-left: 103px;
+}
